@@ -1,16 +1,15 @@
 ## Hi there 👋
+### Hi, I'm Hizra Nawaz 👋
 
-<!--
-**hizra-nawaz-dev/hizra-nawaz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Developer from Pakistan | Seeking Opportunities in Germany 🇩🇪
 
-Here are some ideas to get you started:
+- 🔭 Currently learning: Web Development (HTML, CSS, JavaScript) & Python
+- 🌱 Goal: To study and work in Germany as a Software Engineer
+- 📫 How to reach me: hizra-nawaz-dev@github
+- ⚡ Fun fact: Passionate about coding and building my future in tech!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+HTML CSS JavaScript Python Git & GitHub
+
+---
+This profile is my journey from Pakistan to Germany - one commit at a time!
